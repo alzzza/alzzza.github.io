@@ -1,0 +1,35 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: src2 creation and copying
+        run: |
+          mkdir -p copy/src
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs -I{} cp --parents {} ./copy/
+
+      - name: Install Emacs
+        run: sudo apt-get install emacs
+
+      - name: Pub Mod
+        run: emacs -Q --script org-publish.el
+
+      - name: Publish generated content to GitHub Pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          clean: false
+          commit-message: New update ${{ github.sha }}
+          folder: public
+
