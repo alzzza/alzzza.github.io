@@ -1,0 +1,24 @@
+#+TITLE: ENT
+
+[[https://github.com/alazzza/alazzza.github.io/edit/main/src/ent/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Topic list
+:PROPERTIES:
+:CUSTOM_ID: enttopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org500ca03][Laryngectomy]] |  2024-10-23 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org17a46a1][Tympanoplasty]] |  2024-10-17 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org0843f87][Thyroidectomy]] |  2024-10-15 |
+
+#+BEGIN_EXPORT html
+<script src="https://alazzza.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
+
