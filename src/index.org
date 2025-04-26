@@ -1,6 +1,6 @@
-#+TITLE: Alazzza
+#+TITLE: Alzzza
 
-[[https://github.com/alazzza/alazzza.github.io/edit/main/src/index.org][Edit]]
+[[https://github.com/alzzza/alzzza.github.io/edit/main/src/index.org][Edit]]
 
 -----
 
