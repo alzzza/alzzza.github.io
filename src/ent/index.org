@@ -1,6 +1,6 @@
 #+TITLE: ENT
 
-[[https://github.com/alazzza/alazzza.github.io/edit/main/src/ent/index.org][Edit]]
+[[https://github.com/alzzza/alzzza.github.io/edit/main/src/ent/index.org][Edit]]
 
 [[file:../index.org][Home]]
 
@@ -19,6 +19,6 @@
 | [[file:./001.org][001]]  | [[file:./001.org::#org0843f87][Thyroidectomy]] |  2024-10-15 |
 
 #+BEGIN_EXPORT html
-<script src="https://alazzza.github.io/assets/js/sortTable.js"></script>
+<script src="https://alzzza.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
 

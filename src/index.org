@@ -19,7 +19,7 @@ Disclaimer 1: nothing, and I do mean /nothing/, on this website is intended as m
 
 Disclaimer 2: I do this in my limited spare time after work. So, although I try my absolute best ensure that the content is accurate, there may be mistakes. Refer to the resources listed at the end of each topic!
 
-Unless otherwise stated, everything on the site is under the [[https://raw.githubusercontent.com/alazzza/alazzza.github.io/refs/heads/main/LICENSE][GPL-3.0 license]].
+Unless otherwise stated, everything on the site is under the [[https://raw.githubusercontent.com/alzzza/alzzza.github.io/refs/heads/main/LICENSE][GPL-3.0 license]].
 
 
 * Subjects

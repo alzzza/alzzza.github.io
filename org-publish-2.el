@@ -5,11 +5,11 @@
       org-html-head-include-scripts nil
       org-html-head-include-default-style nil
       org-export-with-sub-superscripts nil
-      org-html-head "<link rel=\"stylesheet\" href=\"https://alazzza.github.io/assets/css/main.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://alzzza.github.io/assets/css/main.css\" />")
 
 (setq org-publish-project-alist
       (list
-       (list "alazzza"
+       (list "alzzza"
              :recursive t
              :base-directory "./src"
              :publishing-function 'org-html-publish-to-html

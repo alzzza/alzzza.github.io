@@ -1,6 +1,6 @@
 #+TITLE: ENT 001
 
-[[https://github.com/alazzza/alazzza.github.io/edit/main/src/ent/001.org][Edit]]
+[[https://github.com/alzzza/alzzza.github.io/edit/main/src/ent/001.org][Edit]]
 
 [[file:./index.org][Home]]
 
