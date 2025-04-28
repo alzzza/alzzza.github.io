@@ -177,7 +177,7 @@ Created: 2025-04-28 - Updated: 2025-04-28
 - Secure stomach: Suture to mediastinal pleura to reduce tension.
 - Insert NG tube.
 
-*** Postoperative Care
+*** Post-operative Care
 :PROPERTIES:
 :CUSTOM_ID: org1e3576d
 :END:
