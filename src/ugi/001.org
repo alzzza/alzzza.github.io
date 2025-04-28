@@ -1,0 +1,198 @@
+#+TITLE: Upper GI Surgery 001
+
+[[https://github.com/alzzza/alzzza.github.io/edit/main/src/ugi/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Oesophagectomy
+:PROPERTIES:
+:CUSTOM_ID: org50a8e75
+:END:
+
+Created: 2025-04-28 - Updated: 2025-04-28
+
+** The oOOOooOoOoOOooOOOooooOOoOesophagus
+:PROPERTIES:
+:CUSTOM_ID: orgac0cd4a
+:END:
+
+- The oesophagus is a hollow, muscular tube lined by squamous epithelium.
+- It connects the hypopharynx to the stomach.
+- Runs from the cricopharyngeal muscle (upper oesophageal sphincter) at C6 to about 2 cm below the diaphragm, where it joins the stomach.
+
+*** Structure
+:PROPERTIES:
+:CUSTOM_ID: orgabca939
+:END:
+
+- Has inner circular and outer longitudinal muscle layers. The upper third is striated muscle, the lower two-thirds is smooth muscle. The lower 4–6 cm forms the lower oesophageal sphincter with thickened smooth muscle.
+
+*** Histology
+:PROPERTIES:
+:CUSTOM_ID: orgd03136e
+:END:
+
+- Lined by stratified squamous epithelium, continuous with oral and pharyngeal mucosa. At the oesophagogastric junction, the lining abruptly changes to columnar epithelium at the "Z line." About one-third of people have small patches of columnar epithelium within the squamous lining.
+- Submucosa contains scattered mucous glands secreting into the lumen.
+
+*** Relations
+:PROPERTIES:
+:CUSTOM_ID: org6f8c9ac
+:END:
+
+- In the thorax, the oesophagus is vertical and posterior, behind the trachea and heart, then deviates left behind the left bronchus and atrium. Indented by the aortic arch, crossed by the azygos vein, and parallels the descending aorta before passing through the diaphragm.
+- Passes through the oesophageal hiatus, surrounded by diaphragmatic crura, and anchored by the phrenooesophageal ligament, with surrounding loose connective tissue.
+
+*** Junction with Stomach
+:PROPERTIES:
+:CUSTOM_ID: org72c2d87
+:END:
+
+- Last 2 cm is intra-abdominal before joining the stomach at an acute angle (angle of His), marked by puckered gastric mucosa and a U-shaped gastric muscle sling.
+
+*** Blood Supply
+:PROPERTIES:
+:CUSTOM_ID: org6c6be0c
+:END:
+
+- Receives segmental arterial supply from inferior thyroid, aorta, intercostal, tracheobronchial, and inferior phrenic arteries, plus submucosal gastric arteries.
+- Venous drainage parallels arteries, mainly via azygos and hemiazygos veins.
+- Submucosal veins connect portal and systemic systems.
+
+*** Lymphatic Drainage
+:PROPERTIES:
+:CUSTOM_ID: orgd18a46a
+:END:
+
+- Lymphatics run longitudinally, draining to perioesophageal nodes in neck, mediastinum, and abdomen.
+
+*** Innervation
+:PROPERTIES:
+:CUSTOM_ID: org0c221ee
+:END:
+
+- Innervated by sympathetic and parasympathetic fibres (mainly vagus). Recurrent laryngeal nerves supply the upper sphincter and upper third. Vagal trunks run alongside, form a plexus in the middle third, then reunite as anterior and posterior trunks through the hiatus to the stomach.
+
+** Cancer of the oesophagus
+:PROPERTIES:
+:CUSTOM_ID: orgb0d2db7
+:END:
+
+- About half of oesophageal cancers are found at the oesophagogastric junction (OGJ).
+- Most cancers at the cardia (around 90%) are adenocarcinomas. These usually start in the stomach lining and then extend up into the lower oesophagus, rather than being true oesophageal cancers.
+- Exact causes are still unclear. There are some links to hiatal hernia, reflux oesophagitis, Barrett's oesophagus, previous gastric surgery, or achalasia, but in many cases, the reason isn't obvious.
+- Alcohol and tobacco use are common in affected patients.
+
+*** Clinical Features
+:PROPERTIES:
+:CUSTOM_ID: org2e4088f
+:END:
+
+- Symptoms often don't appear until there's some blockage in the oesophagus.
+- The most common sign is progressive difficulty swallowing - starting with solids and sometimes progressing to liquids. Painful swallowing (odynophagia) can also occur.
+- Pain in the upper abdomen may be felt and can radiate to the back or around the ribs.
+- This cancer can mimic other conditions such as achalasia, so early endoscopy and biopsy are important for anyone with new swallowing issues.
+- Occasionally, it's picked up due to anaemia or gastrointestinal bleeding.
+- Diagnosis isn't always straightforward; sometimes it's only confirmed during or after surgery.
+
+*** Surgical Strategies
+:PROPERTIES:
+:CUSTOM_ID: org7dc6377
+:END:
+
+- Imaging and endoscopy usually provide the diagnosis and help define the extent of disease before surgery.
+- Cancers are classified by location:
+    1. Mainly oesophageal (supra Z-line)
+    2. Centred at the OGJ (Z-line)
+    3. Mainly gastric (infra Z-line)
+    4. Extensive disease (rarely operable; may require total oesophagogastrectomy)
+- Surgical goals are to remove the tumour, relieve obstruction, and maintain as much normal digestion as possible.
+- The main operations are Ivor-Lewis oesophagogastrectomy and total gastrectomy with Roux-Y reconstruction.
+
+*** Patient Selection
+:PROPERTIES:
+:CUSTOM_ID: org56eddf6
+:END:
+
+- Surgery is considered only if there's no evidence of distant spread (like to the liver, brain, lungs, or lymph nodes).
+- CT scans aren't always reliable for determining if surgery is possible; direct exploration is often needed.
+- If surgery isn't an option, a palliative oesophageal tube may help with swallowing.
+- For tumours mainly in the stomach, where tubes aren't suitable, a gastrostomy or jejunostomy might allow patients to spend more time at home, though it doesn't improve swallowing or survival.
+- Choosing an operation depends on tumour location, patient health, and other factors.
+
+*** Prognosis
+:PROPERTIES:
+:CUSTOM_ID: org2f28ec4
+:END:
+
+- Long-term survival is limited - about 20% reach five years after surgery, so most operations are sadly palliative.
+- Surgical palliation can help restore swallowing, but if the operation isn't planned carefully, digestive problems can result.
+
+** Modified Ivor-Lewis Esophagogastrectomy
+:PROPERTIES:
+:CUSTOM_ID: org2fe1dd7
+:END:
+
+- Used for cancers at or just above the Z-line (lower oesophagus and cardia).
+- Two main phases:
+  - Abdominal phase: Assess tumour, mobilise stomach, prepare for reconstruction.
+  - Thoracic phase: Remove lower oesophagus and upper stomach, reconstruct.
+
+*** Abdominal Phase (patient supine)
+:PROPERTIES:
+:CUSTOM_ID: orgfefdd76
+:END:
+
+- Incision: Upper midline, possibly extended upwards for better access.
+- Expose left upper quadrant: Retract left costal arch, surgeon stands on patient's right.
+  1) Divide triangular ligament of liver's left lobe, retract liver medially.
+  2) Clamp, divide, ligate upper gastrohepatic omentum.
+  3) Encircle distal oesophagus and vagi with [[https://my.clevelandclinic.org/health/articles/penrose-drain][Penrose drain]]; bluntly mobilise oesophagus, check tumour mobility and resectability.
+  4) Mobilise stomach by dividing gastrocolic omentum outside gastroepiploic arcade, preserving right gastroepiploic vessels.
+  5) Splenectomy (for distal oesophageal malignancy); control splenic vessels at hilum.
+  6) Encircle splenic hilum, divide and ligate splenic vessels distal to pancreas tail.
+  7) Divide short gastric vessels, free gastric fundus from diaphragm.
+  8) Perform Heineke-Mikulicz pyloroplasty (Weinberg modification) to aid gastric emptying post-vagotomy.
+
+*** Thoracic Phase (patient left lateral, right thoracotomy)
+:PROPERTIES:
+:CUSTOM_ID: orge6e157e
+:END:
+
+- Incision: Right midthoracic, enter pleural space via 5th interspace.
+- Expose oesophagus: Retract right lung, incise mediastinal pleura, leave strip attached to oesophagus.
+- Mobilise oesophagus: Encircle with Penrose drain, mobilise with lymph nodes from posterior mediastinum.
+- Transect oesophagus: Just below azygos vein (using non-crushing clamp and scalpel).
+- Draw stomach into chest: Through oesophageal hiatus.
+- Transect stomach: At least 4 cm from tumour, clamp and divide vessels of lesser and greater curvature.
+- Tailor stomach: Staple lesser curvature, excise excess tissue, preserve right gastroepiploic vessels.
+- Anastomosis: End-to-end between stomach and oesophagus; use silk sutures (horizontal on stomach, vertical on oesophagus), running lock stitch for mucosa, Maloney dilator to ensure lumen size.
+- Secure stomach: Suture to mediastinal pleura to reduce tension.
+- Insert NG tube.
+
+*** Postoperative Care
+:PROPERTIES:
+:CUSTOM_ID: org1e3576d
+:END:
+
+- Straight after surgery, patients go to ICU.
+- Urinary catheter stays in for 4-5 days.
+- Broad-spectrum antibiotics are given before and after surgery for about 4-5 days.
+- We start parenteral (IV) nutrition the morning after surgery and keep it going until you can eat normally by mouth.
+- Cimetidine is given intravenously until you're back on a regular diet, to protect the stomach lining.
+- Dressings come off the day after surgery.
+- Chest tubes (one on each side) are removed as soon as there's no more drainage or air leak. Sometimes they are kept in until the patient returns to full diet (to ensure that there is no chyle leak).
+- Daily chest X-rays help us keep track of your recovery.
+- By day 5 or 6, we look for signs bowel activity - if so, we do a Gastrografin swallow X-ray to check the join (anastomosis) for leaks and make sure everything's open.
+- If there's no leak, you start with clear liquids by mouth, then move to a normal diet over the next 3 days. IV nutrition is gradually stopped.
+- If a leak is found on the X-ray, feeding by mouth is stopped - we use a NG tube for stomach suction and continue IV nutrition (2,000-3,000 calories/day). Wait 2 weeks, then check again. If still leaking, IV nutrition continues for up to 3 weeks.
+- Most patients are in hospital for 10-14 days if all goes well.
+- Early satiety and weight loss are common after such operation, but eating small, frequent meals and drinking fluids between meals helps.
+- Reflux isn't usually a problem because of the way the stomach is positioned, even though we don't do an anti-reflux procedure.
+- Most people are back to normal activities about 6 weeks after surgery.
