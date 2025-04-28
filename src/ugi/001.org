@@ -1,4 +1,4 @@
-#+TITLE: Upper GI Surgery 001
+#+TITLE: Upper GI 001
 
 [[https://github.com/alzzza/alzzza.github.io/edit/main/src/ugi/001.org][Edit]]
 
