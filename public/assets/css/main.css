@@ -31,7 +31,12 @@ h2 {
 	color: #050505;
 }
 
-h3,h4,h5,h6 {
+h3 {
+	background: #706f1c;
+	color: #e7f3e3;
+}
+
+h4,h5,h6 {
 	background: #1c7052;
 	color: #f3f3e3;
 }
