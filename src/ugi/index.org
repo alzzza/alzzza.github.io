@@ -1,1 +1,23 @@
+#+TITLE: Upper GI Surgery
+
+[[https://github.com/alzzza/alzzza.github.io/edit/main/src/ugi/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Topic list
+:PROPERTIES:
+:CUSTOM_ID: ugitopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#orgac0cd4a][Oesophagectomy]] |  2025-04-28 |
+
+#+BEGIN_EXPORT html
+<script src="https://alzzza.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
+
 
