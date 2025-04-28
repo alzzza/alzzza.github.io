@@ -14,7 +14,7 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
-| [[file:./001.org][001]]  | [[file:./001.org::#orgac0cd4a][Oesophagectomy]] |  2025-04-28 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org50a8e75][Oesophagectomy]] |  2025-04-28 |
 
 #+BEGIN_EXPORT html
 <script src="https://alzzza.github.io/assets/js/sortTable.js"></script>
