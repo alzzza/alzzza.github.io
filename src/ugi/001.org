@@ -32,7 +32,7 @@ Created: 2025-04-28 - Updated: 2025-04-28
 :CUSTOM_ID: orgabca939
 :END:
 
-- Has inner circular and outer longitudinal muscle layers. The upper third is striated muscle, the lower two-thirds is smooth muscle. The lower 4–6 cm forms the lower oesophageal sphincter with thickened smooth muscle.
+- Has inner circular and outer longitudinal muscle layers. The upper third is striated muscle, the lower two-thirds is smooth muscle. The lower 4-6 cm forms the lower oesophageal sphincter with thickened smooth muscle.
 
 *** Histology
 :PROPERTIES:
