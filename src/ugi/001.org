@@ -23,6 +23,7 @@ Created: 2025-04-28 - Updated: 2025-04-28
 :END:
 
 - The oesophagus is a hollow, muscular tube lined by squamous epithelium.
+- 25 cm long.
 - It connects the hypopharynx to the stomach.
 - Runs from the cricopharyngeal muscle (upper oesophageal sphincter) at C6 to about 2 cm below the diaphragm, where it joins the stomach.
 
