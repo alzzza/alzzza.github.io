@@ -10,6 +10,118 @@
 
 #+TOC: headlines 2
 
+* Total Gastrectomy
+:PROPERTIES:
+:CUSTOM_ID: org477e33d
+:END:
+
+Created: 2025-05-03 - Updated: 2025-05-03
+
+** Surgical steps
+:PROPERTIES:
+:CUSTOM_ID: org04e8727
+:END:
+
+*** Patient Preparation and Positioning
+:PROPERTIES:
+:CUSTOM_ID: org73571c8
+:END:
+
+- General anaesthesia... obviously.
+- The entire left side of the chest and abdomen is prepped.
+
+*** Initial Incision
+:PROPERTIES:
+:CUSTOM_ID: org6373385
+:END:
+
+- A left thoracoabdominal incision is made, entering the pleural space through 7th intercostal space.
+- The incision is extended across the costal arch and upper abdomen to the midline, ending halfway between the navel and xiphoid.
+- The costal arch is divided with bone shears, and the cartilaginous arch is trimmed flush with the seventh and eighth ribs.
+- The diaphragm is incised radially (8-10 cm), with diaphragmatic vessels sutured and ligated as they are divided.
+- This allows the rib incision to be spread with a self-retaining retractor, exposing the distal oesophagus and left upper quadrant viscera.
+
+*** Abdominal Exploration
+:PROPERTIES:
+:CUSTOM_ID: org9d3d4f4
+:END:
+
+- Before completing the incision, the abdomen is explored through the abdominal limb to assess resectability.
+- If resection is not feasible, a palliative Celestin tube may be inserted.
+
+*** Resective Phase
+:PROPERTIES:
+:CUSTOM_ID: org51fc9a6
+:END:
+
+- Mobilisation of the Spleen
+  - The peritoneum lateral to the splenic hilus is incised, allowing the spleen and tail of the pancreas to be lifted off the perirenal fat.
+- Interruption of Splenic Vessels
+  - The splenic vessels are encircled by blunt dissection, clamped, divided, and double-ligated, leaving the spleen attached to the stomach by short gastric vessels.
+- Disconnection of the Greater Omentum
+  - The greater omentum is separated from the transverse colon, from hepatic to splenic flexure, by dividing the thin avascular connections.
+- Steps 4 & 5: Ligation of Distal Gastric Blood Supply
+  - The right gastric and right gastroepiploic vessels are interrupted and ligated.
+- Disconnection Along the Lesser Curvature
+  - The lesser omentum is incised; the upper, thicker part (gastrohepatic omentum) is clamped, divided, and ligated.
+- Interruption of Left Gastric Vessels
+  - The left gastric vessels, the final vascular connection to the stomach, are isolated and divided.
+- Duodenal Transection
+  - The duodenum is transected and closed with a TA 30 stapling device, with the staple line buried under interrupted seromuscular sutures.
+- Mobilisation and Transection of the Distal Oesophagus
+  - The left inferior pulmonary ligament is divided, allowing the lung to be retracted cephalad.
+  - A Penrose drain is passed around the lower oesophagus and vagi, elevating them from the posterior mediastinum.
+  - The distal oesophagus is encircled, dissected free, and, if necessary, a cuff of diaphragm is excised if there is neoplastic fixation.
+  - A Foss clamp is applied 8-10 cm above the oesophagogastric junction, and the oesophagus is transected and closed with a stapling device.
+
+*** Reconstruction Phase
+:PROPERTIES:
+:CUSTOM_ID: orgff898a3
+:END:
+
+- Roux-en-Y Jejunal Limb Construction
+  - An 18-inch (46-cm) Roux-en-Y limb of jejunum is constructed and anastomosed to the oesophagus to restore continuity.
+  - The ligament of Treitz is identified, and a point 9 inches (23 cm) distal is marked for division.
+  - The mesentery is transilluminated and incised radially, then divided at right angles to create a pedicle long enough to reach the chest.
+- Jejunal Division and Passage
+  - The jejunum is divided with a stapling device, and the staple line is reinforced with interrupted silk sutures.
+  - A defect is created in the transverse mesocolon near the ligament of Treitz, allowing the jejunal limb to pass cephalad through the mesocolon and oesophageal hiatus to the divided oesophagus.
+- Oesophagojejunostomy
+  - The antimesenteric aspect of the jejunum is aligned with the oesophagus for an end-to-side anastomosis.
+  - The anastomosis is performed with a posterior row of interrupted seromuscular sutures, followed by mucosal anastomosis.
+- Jejunojejunostomy
+  - To prevent reflux of biliary and pancreatic secretions, an end-to-side jejunojejunostomy is performed 18 inches (46 cm) distal to the oesophagojejunostomy.
+  - All mesenteric defects are closed with sutures to prevent internal herniation.
+- Drainage and Closure
+  - A Levin tube is passed through the nose into the jejunum.
+  - Two Penrose drains are placed: one from the duodenal stump, the other from the oesophagojejunostomy.
+  - The mediastinal pleura is sutured closed over the lower oesophagus and upper jejunum.
+  - The diaphragm and ribs are closed with heavy sutures, and a chest tube is placed.
+  - The wounds are closed in layers, and a subcutaneous catheter is used to help prevent infection.
+
+** Postoperative Care and Outcomes
+:PROPERTIES:
+:CUSTOM_ID: org841cec9
+:END:
+
+*** Immediate Care
+:PROPERTIES:
+:CUSTOM_ID: org69412b6
+:END:
+
+- Postoperative care is similar to that after an Ivor-Lewis resection, except cimetidine is not required.
+- Drains remain until the patient tolerates an oral diet and drainage is minimal.
+
+*** Long-Term Considerations
+:PROPERTIES:
+:CUSTOM_ID: org8d62e58
+:END:
+
+- The Roux-en-Y limb diverts duodenal contents, preventing reflux and providing a comfortable functional result.
+- Early satiety is common but usually improves over time.
+- Monthly parenteral vitamin B12 is required to prevent megaloblastic anaemia!!!!!!
+- Approximately 90% of patients experience satisfactory swallowing and digestion postoperatively.
+
 * Oesophagectomy
 :PROPERTIES:
 :CUSTOM_ID: org50a8e75
