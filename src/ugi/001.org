@@ -10,12 +10,95 @@
 
 #+TOC: headlines 2
 
-* Total Gastrectomy
+* Total Gastrectomy Roux-en-Y
 :PROPERTIES:
 :CUSTOM_ID: org477e33d
 :END:
 
 Created: 2025-05-03 - Updated: 2025-05-03
+
+** Anatomy
+:PROPERTIES:
+:CUSTOM_ID: orgd917e36
+:END:
+
+- Stomach's up high in your abdomen, just under the diaphragm, left of the midline.
+- It's between the oesophagus and the duodenum.
+- Made of five main regions:
+  - Cardia - where food drops in from the oesophagus, just after the gastro-oesophageal junction.
+  - Fundus - dome-shaped bit, sits above and left of the cardia.
+  - Body - biggest section, under the fundus, next to the left diaphragm.
+  - Antrum - lower part, holds partly digested food, gets it ready for the small intestine.
+  - Pylorus - funnel-shaped, leads to the duodenum, has the pyloric sphincter (muscle that controls emptying).
+
+*** Curveyyyyy  curves, sharpy angles, and loud neighbours
+:PROPERTIES:
+:CUSTOM_ID: org1540205
+:END:
+
+- Lesser curvature - short, inside curve, under the liver, has the incisura angularis (marks body-to-antrum change).
+- Greater curvature - long, outside curve, runs from fundus to pylorus, attached to the greater omentum.
+- Angle of His - sharp angle where oesophagus meets fundus.
+- Lesser sac - space behind the stomach, in front of the pancreas, bordered by spleen, splenic artery, left kidney, and transverse mesocolon.
+
+*** Layers
+:PROPERTIES:
+:CUSTOM_ID: orge960d17
+:END:
+
+- Mucosa - innermost, where most stomach cancers start.
+  - Has three bits:
+  - Epithelium - with:
+    - Surface mucous cells (make protective mucus)
+    - Mucous neck cells (more mucus for lining)
+    - Parietal cells (make hydrochloric acid & intrinsic factor for B12). Remember this... will become important later...
+    - Chief cells (make pepsinogen for protein digestion)
+    - Enteroendocrine cells (release hormones like gastrin, somatostatin, histamine)
+  - Lamina propria - connective tissue
+  - Muscularis mucosa - thin muscle layer
+- Submucosa - support layer under mucosa.
+- Muscularis propria - thick muscle, does the mixing and moving (peristalsis).
+- Subserosa - connective tissue with blood vessels, lymphatics, nerves.
+- Serosa - outer wrapping.
+- When relaxed, mucosa and submucosa make folds called rugae.
+
+*** Blood Supply
+:PROPERTIES:
+:CUSTOM_ID: orgd7b7723
+:END:
+
+- Arteries:
+  - Celiac trunk - main source, splits into left gastric, common hepatic, splenic arteries.
+  - Common hepatic artery - gives off gastroduodenal artery (behind duodenum).
+  - Left gastric artery - along top of lesser curvature, joins right gastric artery.
+  - Right gastric artery - from proper hepatic, along bottom of lesser curvature, joins left gastric.
+  - Left gastroepiploic artery - from splenic, along top of greater curvature, joins right gastroepiploic.
+  - Right gastroepiploic artery - from gastroduodenal, along bottom of greater curvature, joins left gastroepiploic.
+  - Short gastric arteries - 3-5 small ones from splenic/left gastroepiploic, go to fundus via gastrosplenic ligament.
+- Veins:
+  - Named same as arteries.
+  - Right/left gastric veins drain to hepatic portal vein.
+  - Short gastric and gastroepiploic veins drain to superior mesenteric vein.
+
+*** Ligaments Holding the Stomach
+:PROPERTIES:
+:CUSTOM_ID: orgba13e50
+:END:
+
+- Gastrocolic ligament - connects greater curvature to transverse colon, has gastroepiploic vessels.
+- Gastrosplenic ligament - connects greater curvature to spleen, has left gastroepiploic & short gastric arteries.
+- Gastrohepatic ligament - connects lesser curvature to liver, has right/left gastric arteries (sometimes left hepatic artery).
+- Gastrophrenic ligament - connects top of stomach to left diaphragm.
+
+*** Nerve Supply
+:PROPERTIES:
+:CUSTOM_ID: orgd40bd5a
+:END:
+
+- Parasympathetic (vagus nerve) - boosts stomach activity, more juice and movement. Yum...
+- Sympathetic (greater splanchnic nerve, T6-T9) - slows things down, less secretion and movement, constricts blood vessels.
+- Enteric nervous system - local control, sorts out peristalsis, secretion, blood flow, all within the gut wall.
+- Sensory nerves - send info about stretch, chemicals, and all that jazz, up to the braiiinzzz, help control appetite and reflexes (I feel as as though I have a broken sensory system, especially when I eat the salty delish belish seafood...).
 
 ** Surgical steps
 :PROPERTIES:
@@ -60,7 +143,7 @@ Created: 2025-05-03 - Updated: 2025-05-03
   - The splenic vessels are encircled by blunt dissection, clamped, divided, and double-ligated, leaving the spleen attached to the stomach by short gastric vessels.
 - Disconnection of the Greater Omentum
   - The greater omentum is separated from the transverse colon, from hepatic to splenic flexure, by dividing the thin avascular connections.
-- Steps 4 & 5: Ligation of Distal Gastric Blood Supply
+- Ligation of Distal Gastric Blood Supply
   - The right gastric and right gastroepiploic vessels are interrupted and ligated.
 - Disconnection Along the Lesser Curvature
   - The lesser omentum is incised; the upper, thicker part (gastrohepatic omentum) is clamped, divided, and ligated.
